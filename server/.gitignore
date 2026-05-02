@@ -1,0 +1,9 @@
+node_modules/
+media/
+uploads/
+outputs/
+
+*.mp4
+*.mov
+*.avi
+*.mkv
